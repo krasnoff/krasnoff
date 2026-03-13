@@ -5,7 +5,7 @@
 - 👀 I’m interested in JavaScript and React.
 - 🌱 I’m currently learning JavaScript and Typescript.
 - 💞️ I'm looking forward to developing my career as a Front-End Developer.
-- 📫 How to reach me: [krasnoff.kobi@gmail.com](mailto:krasnoff.kobi@gmail.com?subject=Mail from Github personal page)
+- 📫 How to reach me: [krasnoff.kobi@gmail.com](mailto:krasnoff.kobi@gmail.com?subject=Mail%20from%20Github%20personal%20page)
 
 ## 🛠 &nbsp;Tech Stack
 
