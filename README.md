@@ -2,7 +2,7 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=krasnoff&color=yellow "Profile views")
 
-- 👀 I’m interested in JavaScript, TypeScript and React.
+- 👀 I’m interested in JavaScript, TypeScript, React and React Native.
 - 🌱 I’m currently learning JavaScript and TypeScript.
 - 💞️ I'm looking forward to developing my career as a Front-End Developer.
 - 📫 How to reach me: [krasnoff.kobi@gmail.com](mailto:krasnoff.kobi@gmail.com?subject=Mail%20from%20Github%20personal%20page)
@@ -18,6 +18,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=Git)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=React)&nbsp;
+![React Native](https://img.shields.io/badge/-React%20Native-05122A?style=flat&logo=React-native)&nbsp;
 
 <!--
 **krasnoff/krasnoff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
